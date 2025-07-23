@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s5NnF3bzZzemE3YmE2YTdtZWg1cXcyeG40M3k3ZnlxNzFnc3pkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<img src="https://mikegomez.netlify.app/assets/og-image.jpg" />
 
 ### 👋 Hi there, I'm Mike Gomez!
 🚀 A passionate Front-End Engineer and QA Developer from the Philippines 🇵🇭  
