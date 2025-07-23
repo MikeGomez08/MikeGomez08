@@ -5,6 +5,10 @@
 🎮 I love building clean UI, playing FPS games, and watching anime.
 
 ---
+[![Visit my portfolio](https://mikegomez.netlify.app/assets/og-image.jpg)](https://mikegomez.netlify.app)
+
+
+---
 
 ### 🔧 Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
