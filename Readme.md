@@ -1,10 +1,10 @@
 ---
 [![Visit my portfolio](https://mikegomez.netlify.app/assets/og-image.jpg)](https://mikegomez.netlify.app)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MikeGomez08.MikeGomez08&left_color=blue&right_color=green)
 
 ### 👋 Hi there, I'm Mike Gomez!
 🚀 A passionate Front-End Engineer and QA Developer from the Philippines 🇵🇭  
 🎮 I love building clean UI, playing FPS games, and watching anime.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MikeGomez08.MikeGomez08&left_color=blue&right_color=green)
 
 
 ---
