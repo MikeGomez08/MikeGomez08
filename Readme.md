@@ -12,7 +12,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-<img align="left" alt="Supabase" width="26px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" />
 <img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
 <br />
 
