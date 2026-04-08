@@ -2,9 +2,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MikeGomez08.MikeGomez08&left_color=blue&right_color=green)
 
 ### 👋 Hi there, I'm Mike Gomez!
-🚀 A passionate Software Engineer and QA Developer from the Philippines 🇵🇭  
-🎮 I love building clean UI, playing FPS games, and watching thriller movies.
-
 ---
 
 ### 🔧 Languages and Tools:
@@ -16,17 +13,9 @@
 <img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
 <br />
 
----
-
-### 📊 GitHub Stats:
-![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeGomez08&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeGomez08&layout=compact&theme=tokyonight)
-
----
 
 ### 💬 Ask me about:
-- Front-End Engineering (React, Next.js)
-- QA Testing (Selenium, Playwright)
+- Software Engineering (React, Next.js)
 - Building developer tools & side projects
 
 ### 📫 How to reach me:
