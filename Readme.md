@@ -42,20 +42,13 @@ Focused on clean architecture, production-ready code, and real-world engineering
 
 ---
 
-#### 🧪 Testing & Automation
-<img align="left" alt="Playwright" width="26px" src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/img/playwright-logo.svg" />
-<img align="left" alt="Cucumber" width="26px" src="https://raw.githubusercontent.com/cucumber/cucumber/main/docs/images/cucumber-logo.svg" />
-<img align="left" alt="Appium" width="26px" src="https://raw.githubusercontent.com/appium/appium/master/packages/appium/docs/.gitbook/assets/logo.png" />
-<img align="left" alt="MCP" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<br />
+#### 🧠 AI / Machine Learning
 
----
-
-#### 🗄️ Databases & DevOps
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="OpenAI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/openai/openai.png" />
+<img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
 <br />
 
 ---
