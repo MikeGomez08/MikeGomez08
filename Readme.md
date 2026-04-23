@@ -30,15 +30,6 @@ Focused on clean architecture, production-ready code, and real-world engineering
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 <br />
 
----
-
-#### 🧠 AI / Machine Learning
-<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
-<img align="left" alt="OpenAI" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" />
-<img align="left" alt="LangChain" width="26px" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" />
-<br />
 
 ---
 
@@ -47,7 +38,6 @@ Focused on clean architecture, production-ready code, and real-world engineering
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="OpenAI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/openai/openai.png" />
 <img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
 <br />
 
