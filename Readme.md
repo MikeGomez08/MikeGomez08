@@ -1,18 +1,18 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MikeGomez08.MikeGomez08&left_color=blue&right_color=green)
 
-### 👋 Hi there, I'm Mike Gomez!
+### Hi there, I'm Mike Gomez!
 ---
 
-### 🚀 Full Stack Developer | AI/ML Engineer | QA Automation Engineer
+###  Full Stack Developer | AI/ML Engineer | Automation Engineer
 
 I build scalable web apps, AI-powered systems, and automated testing frameworks.  
 Focused on clean architecture, production-ready code, and real-world engineering impact.
 
 ---
 
-### 🔧 Languages and Tools:
+### Languages and Tools:
 
-#### 🌐 Frontend
+#### Frontend
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
@@ -23,7 +23,7 @@ Focused on clean architecture, production-ready code, and real-world engineering
 
 ---
 
-#### ⚙️ Backend
+#### Backend
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="FastAPI" width="26px" src="https://fastapi.tiangolo.com/img/icon-white.svg" />
@@ -33,7 +33,7 @@ Focused on clean architecture, production-ready code, and real-world engineering
 
 ---
 
-#### 🧠 AI / Machine Learning
+#### AI / Machine Learning
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
@@ -43,7 +43,7 @@ Focused on clean architecture, production-ready code, and real-world engineering
 
 ---
 
-### 💡 What I Do
+### What I Do
 - Build full-stack web applications (React, Next.js, Node, Python)
 - Design and deploy REST & AI-powered APIs
 - Integrate LLMs into real-world products (chatbots, RAG systems, automation tools)
@@ -53,7 +53,7 @@ Focused on clean architecture, production-ready code, and real-world engineering
 
 ---
 
-### 🧠 AI & Automation Projects
+### AI & Automation Projects
 - AI chatbots with memory and retrieval (RAG systems)
 - Automated test suites with Playwright + Cucumber
 - Mobile automation testing with Appium
@@ -62,7 +62,7 @@ Focused on clean architecture, production-ready code, and real-world engineering
 
 ---
 
-### 💬 Ask me about:
+### Ask me about:
 - Full Stack Engineering (React / Next / Node / FastAPI)
 - AI Integration in real products
 - Test automation architecture
@@ -71,7 +71,7 @@ Focused on clean architecture, production-ready code, and real-world engineering
 
 ---
 
-### 📫 How to reach me:
+### How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://mikegomez.netlify.app)  
 [![Email](https://img.shields.io/badge/Gmail-grey?style=flat&logo=gmail)](mailto:youremail@gmail.com)
